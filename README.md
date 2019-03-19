@@ -1,2 +1,2 @@
 # Design_CPU
-This repository personal project(Design CPU)
+This repository is personal project(Design CPU)
